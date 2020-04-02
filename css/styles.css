@@ -1,0 +1,18 @@
+body
+{
+    background-color:#faf5e4;
+    font-family: 'Comic Sans MS', Comic Sans, cursive;
+}
+h3
+{
+    color: #f8b400;
+    text-decoration: underline;    
+}
+hr
+{
+    border-style: none;
+    border-top-style: dotted;
+    border-color:rgb(109, 134, 216);
+    width: 5%;
+    border-width: 5px;
+}
